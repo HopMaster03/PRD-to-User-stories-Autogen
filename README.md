@@ -8,10 +8,7 @@
     <em>Transforming Ideas into Action: PRD to User Stories</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/ulfimlg/PRD_to_UserStories?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/ulfimlg/PRD_to_UserStories?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/ulfimlg/PRD_to_UserStories?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/ulfimlg/PRD_to_UserStories?style=flat&color=0080ff" alt="repo-language-count">
+
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
