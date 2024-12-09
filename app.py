@@ -18,10 +18,10 @@ import os
 
 load_dotenv()
 #Fill in your domain url before running
-url = "https://ammarhanifkhatri123.atlassian.net/rest/api/3/issue"
+url = "https://your_domain.atlassian.net/rest/api/3/issue"
 
 #Enter your personal email and your API key here
-auth = HTTPBasicAuth("ammarhanifkhatri12345@gmail.com", os.getenv("JIRA_API_KEY"))
+auth = HTTPBasicAuth("your_email", os.getenv("JIRA_API_KEY"))
 headers = {
   "Accept": "application/json",
   "Content-Type": "application/json"
