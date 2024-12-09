@@ -1,0 +1,9 @@
+pyautogen
+streamlit
+PyMuPDF
+python-dotenv
+langtrace_python_sdk
+Pillow
+langchain-experimental
+langchain-openai
+deepeval
